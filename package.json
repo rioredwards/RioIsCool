@@ -1,0 +1,21 @@
+{
+  "name": "RioIsCool",
+  "displayName": "Rio's Cool Color Theme",
+  "description": "Cool Theme of Colors!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rio's Cool Color Theme!",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rio's Cool Color Theme!-color-theme.json"
+      }
+    ]
+  }
+}
