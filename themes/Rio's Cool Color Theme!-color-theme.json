@@ -270,6 +270,20 @@
             }
         },
         {
+            "name": "bool: true",
+            "scope": ["constant.language.boolean.true"],
+            "settings": {
+                "foreground": "#7ba04f"
+            }
+        },
+        {
+            "name": "bool: false",
+            "scope": ["constant.language.boolean.false"],
+            "settings": {
+                "foreground": "#c55551"
+            }
+        },
+        {
             "name": "Types declaration and references",
             "scope": [
                 "meta.type.name",
