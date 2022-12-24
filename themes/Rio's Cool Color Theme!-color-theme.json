@@ -4,7 +4,7 @@
         "editor.background": "#272727",
         "editor.foreground": "#cccccc",
         "editor.selectionBackground": "#1d4678cc",
-        "editor.lineHighlightBackground": "#06beda15",
+        "editor.lineHighlightBackground": "#1d467846",
         "editorGutter.background": "#ffffff0b",
         "titleBar.activeBackground": "#ffffff1a",
         "titleBar.inactiveBackground": "#ffffff10",
@@ -20,8 +20,7 @@
         "editorSuggestWidget.highlightForeground": "#cc6e2f",
         "editorSuggestWidget.selectedBackground": "#204182cc",
         "badge.background": "#ffffff1a",
-        "activityBar.background": "#ffffff1a",
-        "activityBarItem.settingsProfilesHoverForeground": "#ff0000"
+        "activityBar.background": "#ffffff1a"
     },
     "tokenColors": [
         {
